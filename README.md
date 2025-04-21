@@ -16,7 +16,7 @@ embeddable SVG badge that increments each time it's accessed.
 ### 1. Clone & Build
 
 ```bash
-git clone <your-fork-url>
+git clone git@github.com:leokwsw/profile-counter.git
 cd profile-counter-node
 docker-compose up --build
 ```
